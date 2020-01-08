@@ -13,3 +13,5 @@ TM1637 CLK_PIN to ATTINY13 PB1 pin.
 VCC (5V from USB or LM7805 stabilizer) and GND must be connected to all : LM35, ATTINY13 and TM1637 module
 
 5V from VCC is used as a reference for LM35/TM1637 measurement so must be stable for good results.
+
+to see how it works - look here https://www.youtube.com/watch?v=r6nF1iJ2r-M
